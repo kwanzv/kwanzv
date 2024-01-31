@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on The Odin Project and Frontend mentor projects, and dabbling in 3D web design.
   
 - 🌱 I’m currently learning ... JS , React and THREE JS.
