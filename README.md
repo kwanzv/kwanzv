@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open sourced projects or charity work.
 
   
-- 💬 Ask me about my 2 dogs ! Both are daschunds.
+- 💬 I work part time as an ESL teacher, and focus on coding in my free time.
   
 - 📫 How to reach me: Find me on Instagram - kwan_zv
   
